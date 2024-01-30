@@ -1,0 +1,16 @@
+# print is function that is used for shows something on screen 
+print ("Muhammad walid")
+print ("my father name is muhammad nazir khan")
+print("i am from dir lower")
+print("and i have done my FSC from lalqilla maidan")
+print(4+10)
+print("i am learning from codanics ")
+print("inshallah i will learn this skill with consistency and patianc")
+print(5*5)
+print("python does not use BDMAS")
+print("python is just use FEMDAS rule")
+print("FEMDAS stands for farenthisis, eponants, Multiplication, Division, Addition, and Subtraction")
+print(10*10/2+5-5)
+print("these are my initial programing and i have no idea what am i write here ")
+print("but inshallah we will grow up soon and then i laugh on these things")
+
